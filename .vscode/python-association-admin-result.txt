@@ -1,0 +1,4 @@
+Configuring Python file association...
+Python.File="C:\ProgramData\miniconda3\python.exe" "%1" %*
+.py=Python.File
+SUCCESS

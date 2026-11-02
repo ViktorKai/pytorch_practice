@@ -1,0 +1,10 @@
+[
+  {
+    "Path": "Registry::HKEY_CURRENT_USER\\Software\\Classes\\Python.File",
+    "Default": null
+  },
+  {
+    "Path": "Registry::HKEY_CURRENT_USER\\Software\\Classes\\Python.File\\shell",
+    "Default": null
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "Path": "Registry::HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\.py",
+    "Exists": false,
+    "Default": null
+  },
+  {
+    "Path": "Registry::HKEY_LOCAL_MACHINE\\SOFTWARE\\Classes\\Python.File\\shell\\open\\command",
+    "Exists": false,
+    "Default": null
+  }
+]

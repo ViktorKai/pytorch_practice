@@ -1,0 +1,67 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 当前文件（miniconda）",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "python": "C:/ProgramData/miniconda3/python.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "redirectOutput": true,
+            "justMyCode": true
+        },
+        {
+            "name": "Python 基础示例",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/python_example.py",
+            "python": "C:/ProgramData/miniconda3/python.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "redirectOutput": true,
+            "justMyCode": true
+        },
+        {
+            "name": "PyTorch 入门示例",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/pytorch_example.py",
+            "python": "C:/ProgramData/miniconda3/python.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "redirectOutput": true,
+            "justMyCode": true
+        }
+    ]
+}
+
+/*{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python 基础示例",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/python_example.py",
+            "python": "C:/ProgramData/miniconda3/python.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "redirectOutput": true,
+            "justMyCode": true
+        },
+        {
+            "name": "PyTorch 入门示例",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/pytorch_example.py",
+            "python": "C:/ProgramData/miniconda3/python.exe",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "redirectOutput": true,
+            "justMyCode": true
+        }
+    ]
+}
+*/
